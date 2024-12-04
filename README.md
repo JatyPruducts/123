@@ -5,7 +5,7 @@
 
 **Импортируемые модули**
 ---
-```
+```python
 import json
 import os
 ```
